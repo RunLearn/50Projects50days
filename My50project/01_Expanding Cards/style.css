@@ -81,6 +81,7 @@ body {
     }
 
     .panel:nth-of-type(4),
+    /* panel 클리스를 가진 각 타입의 5번째*/
     .panel:nth-of-type(5) {
         display: none;
     }
